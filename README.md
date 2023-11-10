@@ -1,10 +1,12 @@
-## Bem-vindo(a) ao meu perfil 👋
+<h1>
+    Bem-vindo(a) ao meu perfil 👋
+</h1> 
     
 <a href="https://github.com/Yan-Guerreiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Guerreiro&theme=dracula&hide_langs_below=1" />
 </a>
 
-<h1>
+<h2>
     My Skills
 </h1>
 <div style="display: inline_block"><br>
