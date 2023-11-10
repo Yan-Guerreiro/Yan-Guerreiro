@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd](https://github.com/Yan-Guerreiro/Yan-Guerreiro/blob/main/hi!.png)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Yan-Guerreiro/Yan-Guerreiro/blob/main/hi!.png" />
 
 <h1>
     Bem-vindo(a) ao meu perfil 👋😄
