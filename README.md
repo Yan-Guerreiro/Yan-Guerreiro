@@ -1,5 +1,5 @@
 <h1>
-    Bem-vindo(a) ao meu perfil 👋
+    Bem-vindo(a) ao meu perfil 👋😄
 </h1> 
     
 <a href="https://github.com/Yan-Guerreiro">
@@ -18,7 +18,7 @@
  
 <br>
  
-### Para saber mais sobre meus trabalhos e projetos me segue nas redes abaixo!
+### Para saber mais me segue ai! 😎
  
 <div> 
   <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
