@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Yan-Guerreiro/Yan-Guerreiro/blob/main/hi!.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Yan-Guerreiro/Yan-Guerreiro/blob/main/Oi!.png" />
 
 <h1>
     Bem-vindo(a) ao meu perfil 👋😄
