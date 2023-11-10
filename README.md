@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/Yan-Guerreiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Guerreiro&theme=dracula&hide_langs_below=1" />
 </a>
  
 <br>
