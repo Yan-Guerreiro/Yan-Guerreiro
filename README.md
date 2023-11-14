@@ -34,11 +34,7 @@
 
 #### Estudando:
 
-<div style="display: inline_block"><br>
-
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
-
-<img align="center" alt="SQL" height="30" width="150" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 
 </div>
 
