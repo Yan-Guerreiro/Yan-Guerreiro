@@ -11,6 +11,9 @@
 <h2>
     Minhas Habilidades 🤓
 </h1>
+
+#### Principais:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,6 +24,16 @@ src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-
           
           
 </div>
+
+#### Secundárias:
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+
+
+#### Ferramentas:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
  
 <br>
  
