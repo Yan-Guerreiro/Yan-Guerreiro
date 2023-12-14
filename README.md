@@ -9,7 +9,7 @@
 </a>
 
 <h2>
-    Minhas Habilidades 
+    Minhas Habilidades 🧠
 </h1>
 
 #### Principais:🎯
