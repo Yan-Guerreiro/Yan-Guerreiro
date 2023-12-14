@@ -46,7 +46,7 @@
 <br>
  
 <h3>
-    Para saber mais me segue ai! 😎
+    Para me conhecer mais acesse os links abaixo! ⇩
 </h3> 
  
 <div> 
