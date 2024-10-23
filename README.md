@@ -28,7 +28,7 @@
 
   <img align="center" alt="SQL" height="30" width="170" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 
-  <img align="center" alt="GIT" height="30" width="80" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="BootStrap" height="30" width="120" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 
   <img align="center" alt="GIT" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
           
