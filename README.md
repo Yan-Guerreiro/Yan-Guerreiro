@@ -1,7 +1,7 @@
  <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Yan-Guerreiro/Yan-Guerreiro/blob/main/Oi!.jpg" />
 
 <h1>
-    Bem-vindo(a) ao meu perfil 👋😄
+    Bem-vindo(a) ao meu perfil 👋
 </h1> 
     
 <a href="https://github.com/Yan-Guerreiro">
@@ -9,10 +9,10 @@
 </a>
 
 <h2>
-    Minhas Habilidades 🧠
+    Habilidades 🧠
 </h1>
 
-#### Principais:🎯
+#### Tecnologias:🎯
 
 <div style="display: inline_block"><br>
 
@@ -34,32 +34,20 @@
           
 </div>
 
-#### Secundárias:🧩
+#### Ferramentas:🧩
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-
-#### Estudando:📚
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 </div>
-
-#### Ferramentas:⚙️
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
 <br>
  
 <h3>
-    ⇩ Para saber mais sobre mim, acesse os links abaixo! ⇩
+    ⇩ Para entrar em contato ou saber mais sobre mim, acesse os links abaixo! ⇩
 </h3> 
  
 <div> 
